@@ -1,0 +1,30 @@
+.contact{
+	padding-top: 80px;
+	text-align: center;
+}
+
+.car{
+	height: 400px;
+	width: 600px;
+	margin-top: 50px;
+}
+
+aside{
+	margin-top: 50px;
+}
+
+.jumbotron{
+	max-height: 400px;
+}
+
+.dk{
+	border-radius: 50%;
+	height: 45px;
+	width: 45px;
+}
+
+.right{
+	vertical-align: center;
+	display: inline-block;
+	float: right;
+}

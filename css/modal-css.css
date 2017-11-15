@@ -1,0 +1,9 @@
+.modal-css{
+	opacity: 0.8;
+	color: black;
+	font-weight: bolder;
+}
+
+.modal-header{
+	text-align: center;
+}

@@ -1,0 +1,21 @@
+.gallary{
+	padding-top: 80px;
+	text-align: center;
+}
+.row{
+	margin: 5px;
+}
+
+.content .col-lg-2{
+	text-align: center;
+	color: blue;
+
+}
+
+.space{
+	margin: 10px;
+}
+
+.first_space{
+margin-top: 10px;
+}
